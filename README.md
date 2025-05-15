@@ -25,5 +25,3 @@ Compile required:
 ```bash
 pyinstaller --windowed .\main.py
 ```
-case run iOS
-```
