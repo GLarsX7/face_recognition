@@ -11,10 +11,6 @@ Users can register their face and perform face login with lightweight facial fea
 - 💾 Local data storage (`face_data.json`).
 - 🖼️ GUI built with Tkinter and live video feed.
 
-## Demo
-
-<img src="https://user-images.githubusercontent.com/your-demo-image.png" width="500"/>
-
 ## Requirements
 
 - Python 3.10
@@ -24,3 +20,10 @@ Install required packages:
 
 ```bash
 pip install -r requirements.txt
+```
+Compile required:
+```bash
+pyinstaller --windowed .\main.py
+```
+case run iOS
+```
